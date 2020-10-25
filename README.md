@@ -6,7 +6,7 @@
 ```
 sudo apt-get install g++
 sudo apt-get install libsfml-dev
-git clone https://github.com/erikalena/No-Gravitar.git
+git clone https://github.com/sofiagavanelli/No-Gravitar.git
 # all'interno della directory del progetto
 cd code
 make
@@ -15,7 +15,7 @@ make
 
 ### Windows
 ```
-git clone https://github.com/erikalena/No-Gravitar.git
+git clone https://github.com/sofiagavanelli/No-Gravitar.git
 # all'interno della directory del progetto 
 cd windows
 # open file NonGravitar.exe
