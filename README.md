@@ -1,4 +1,12 @@
-# No-Gravitar
+# NoGravitar  
+NoGravitar è una riproduzione (non del tutto fedele) del gioco arcade di grafica vettoriale Gravitar,  
+pubblicato da Atari Inc. nel 1982
+
+## Comandi  
+Per ruotare la navicella è necessario utilizzare le frecce dx e sx, per muoversi nella direzione  
+scelta, invece, è necessario utilizzare la freccia in su (che permette anche di accelerare) e   
+quella in giù. La barra spaziatrice serve per sparare mentre il pulsante tab si utilizza per  
+ritirare il carburante.
 
 ## Installazione
 
