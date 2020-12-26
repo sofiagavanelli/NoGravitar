@@ -1,17 +1,19 @@
 # NoGravitar  
-NoGravitar è una riproduzione (non del tutto fedele) del gioco arcade di grafica vettoriale Gravitar, pubblicato da Atari Inc. nel 1982
+## About  
+NoGravitar is a reproduction (not completely accurate) of vector graphics arcade game Gravitar, released by Atari, Inc. in 1982.  
 
-## Comandi  
-Per ruotare la navicella è necessario utilizzare le frecce dx e sx, per muoversi nella direzione scelta, invece, è necessario utilizzare la freccia in su (che permette anche di accelerare) e quella in giù. La barra spaziatrice serve per sparare mentre il pulsante tab si utilizza per ritirare il carburante.
+## How to play  
+Rotating the spaceship is possible using right and left arrows, while to move in the chosen direction you can press the up button (it is also possible to accellerate thanks to it)  or the down one. The spacebar is used to open fire towards the bunkers and the tab button is necessary to pick up fuel for the spaceship.  
 
-## Installazione
+## Installation  
+This project has been fully written in C++ language, using SFML library.
 
 ### Linux
 ```
 sudo apt-get install g++
 sudo apt-get install libsfml-dev
 git clone https://github.com/sofiagavanelli/NoGravitar.git
-# all'interno della directory del progetto
+# inside the project directory
 cd code
 make
 ./game
@@ -20,12 +22,19 @@ make
 ### Windows
 ```
 git clone https://github.com/sofiagavanelli/NoGravitar.git
-# all'interno della directory del progetto 
+# inside the project directory
 cd windows
 # open file NonGravitar.exe
 ```
 
-## Autori  
-  
-Questo progetto è stato sviluppato come parte dell'esame di 'Programmazione' del primo anno della facoltà di Informatica all'Università di Bologna.  
-Il codice è stato scritto da *Sofia Gavanelli*, *Erika Lena*, *Martina Ritrovato*.  
+## Authors  
+This project has been developed as part of 'Programming' course at University of Bologna, first year of Computer Science.
+All the code has been written by *Sofia Gavanelli*, *Erika Lena*, *Martina Ritrovato*.  
+We can be found through our GitHub profiles for any kind of question:  
+
+https://github.com/Martiross99  
+https://github.com/sofiagavanelli  
+https://github.com/erikalena  
+
+Feel free to contact any of us!  
+
